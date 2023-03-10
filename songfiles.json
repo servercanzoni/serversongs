@@ -5,6 +5,12 @@
             "title": "Here comes the money",
             "img": "https://m.media-amazon.com/images/I/51emhjrxWaL._UXNaN_FMjpg_QL85_.jpg",
             "song": "https://github.com/servercanzoni/storagesong/blob/main/Shane%20McMahon%20-%20Here%20Comes%20The%20Money%20Entrance%20Theme.mp3?raw=true"
+        },
+        {
+            "id": 2,
+            "title": "Running up that hill - orchestral cover",
+            "img": "https://na.cdn.beatsaver.com/f3eb7bb5480b6394c717004c39268c6e978d4707.jpg",
+            "song": "https://github.com/servercanzoni/storagesong/blob/main/Stranger%20Things%20S4%20Running%20Up%20That%20Hill%20EPIC%20ORCHESTRAL%20VERSION%20(Kate%20Bush%20Cover).mp3?raw=true"
         }
     ]
 }
